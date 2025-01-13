@@ -23,4 +23,4 @@ This provides an unique list of hostnames and addresses for a glimpse of the net
 pSSL in Python for optimized scan times and implementation of new features :)
 
 ## Support
-If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec).
+If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec). Im currently consulting full-time and get paid by the job, not my time.
