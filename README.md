@@ -39,7 +39,7 @@ If you would like to download the dependancies ad-hoc, you'll need to install ga
 ![allMyTools](https://github.com/user-attachments/assets/16cd5559-8d7f-4195-8979-35983e48be72)
 
 
-You can find a video on my Obsidian Publish showcasing pSSL generating 889 unique IPs for a domain in around 3 minutes.
+You can find a video on my [Obsidian Publish](https://publish.obsidian.md/weekndr-sec/GitHub/pSSL/Demo/Video) showcasing pSSL generating 889 unique IPs for a domain in around 3 minutes.
 
 ## Coming soon...
 pSSL in Python for optimized scan times and implementation of new features :)
