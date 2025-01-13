@@ -21,3 +21,6 @@ This provides an unique list of hostnames and addresses for a glimpse of the net
 
 ## Coming soon...
 pSSL in Python for optimized scan times and implementation of new features :)
+
+## Support
+If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec).
