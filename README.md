@@ -34,9 +34,8 @@ If you would like to download the dependancies ad-hoc, you'll need to install ga
 
 ## Demonstration & Usage
 ![pSSL_ctDownload](https://github.com/user-attachments/assets/3fdda20b-dbb8-4098-93c4-fa5bafbf3d5b)
-![pSSL_resolving](https://github.com/user-attachments/assets/00918b10-8f51-43c
+![pSSL_resolving](https://github.com/user-attachments/assets/b16bd707-5434-400e-8621-8a4b86280085)
 ![pSSL_tableCreation2](https://github.com/user-attachments/assets/e0720bf8-d99b-4da0-8f15-91b588162857)
-c-9225-94a88e3e512b)
 ![allMyTools](https://github.com/user-attachments/assets/16cd5559-8d7f-4195-8979-35983e48be72)
 
 
