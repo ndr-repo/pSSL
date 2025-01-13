@@ -8,15 +8,16 @@
 
 **I am not responsible for any legal or criminal proceedings filed against you for using this tool.**
 
-## Description
+## Overview
 
 pSSL is a tool I wrote in PowerShell to enumerate certificate transparancy logs using DoH (DNS over HTTPS). 
 
-This provides an unique list of hostnames and addresses for a glimpse of the network behind a target domain. Identify internal hostnames to maximize asset discovery ops and validate information flow.
+This provides an unique list of hostnames and addresses for a glimpse of the network behind a target domain. Identify internal hostnames to maximize asset discovery and validate information flow.
 
 ## Related Articles
 - For more on DoH, check out RFC8484 [here](https://www.rfc-editor.org/rfc/rfc8484.html) or at the [PDF](https://www.rfc-editor.org/rfc/pdfrfc/rfc8484.txt.pdf).
-- For more on certificate transparancy, check out this guide at [certificate.transparancy.dev](https://certificate.transparency.dev/howctworks/)
+- For more on certificate transparancy, check out this guide from [certificate.transparancy.dev](https://certificate.transparency.dev/howctworks/).
+- For more on CNAME record resolution, check out this article from [Cloudflare](https://www.cloudflare.com/learning/dns/dns-records/dns-cname-record/).
 
 ## Coming soon...
 pSSL in Python for optimized scan times and implementation of new features :)
