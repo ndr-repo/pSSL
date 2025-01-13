@@ -16,4 +16,4 @@ This provides an unique list of hostnames and addresses for a glimpse of the net
 - For more on certificate transparancy, check out this guide at [certificate.transparancy.dev](https://certificate.transparency.dev/howctworks/)
 
 ## Coming soon...
-I plan to rewrite this in Python to maximize its efficiency and add a few new features :)
+pSSL in Python for optimized scan times and implementation of new features :)
