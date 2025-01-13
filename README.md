@@ -26,7 +26,6 @@ If you would like to download the dependancies ad-hoc, you'll need to install ga
 2. Verify the tools are added to your [environment variables](https://www.howtogeek.com/787217/how-to-edit-environment-variables-on-windows-10-or-11/)
 3. Clone the pSSL repository
 4. Run pSSL. If you are having issues accessing the dependancies from your environment vars, varify they are set and reboot your machine.
-5. Profit
 
 ## Related Articles
 - For more on DoH, check out RFC8484 [here](https://www.rfc-editor.org/rfc/rfc8484.html) or at the [PDF](https://www.rfc-editor.org/rfc/pdfrfc/rfc8484.txt.pdf).
@@ -34,6 +33,13 @@ If you would like to download the dependancies ad-hoc, you'll need to install ga
 - For more on CNAME record resolution, check out this article from [Cloudflare](https://www.cloudflare.com/learning/dns/dns-records/dns-cname-record/).
 
 ## Demonstration & Usage
+![pSSL_ctDownload](https://github.com/user-attachments/assets/3fdda20b-dbb8-4098-93c4-fa5bafbf3d5b)
+![pSSL_resolving](https://github.com/user-attachments/assets/00918b10-8f51-43c
+![pSSL_tableCreation2](https://github.com/user-attachments/assets/e0720bf8-d99b-4da0-8f15-91b588162857)
+c-9225-94a88e3e512b)
+![allMyTools](https://github.com/user-attachments/assets/16cd5559-8d7f-4195-8979-35983e48be72)
+
+
 You can find a video on my Obsidian Publish showcasing pSSL generating 889 unique IPs for a domain in around 3 minutes.
 
 ## Coming soon...
