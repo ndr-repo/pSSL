@@ -30,4 +30,4 @@ If you would like to download the dependancies ad-hoc, you'll need to install ga
 pSSL in Python for optimized scan times and implementation of new features :)
 
 ## Support
-If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec). Im currently consulting full-time and get paid by the job, not my time.
+If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec). Im currently consulting full-time and get paid by the project, not by my time.
