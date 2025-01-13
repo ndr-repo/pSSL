@@ -40,4 +40,5 @@ You can find a video on my Obsidian Publish showcasing pSSL generating 889 uniqu
 pSSL in Python for optimized scan times and implementation of new features :)
 
 ## Support
-If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec). Im currently consulting full-time and get paid by the project, not by my time.
+If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec). 
+Im currently consulting full-time and get paid by the project, not by my time.
