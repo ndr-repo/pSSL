@@ -26,6 +26,9 @@ If you would like to download the dependancies ad-hoc, you'll need to install ga
 - For more on certificate transparancy, check out this guide from [certificate.transparancy.dev](https://certificate.transparency.dev/howctworks/).
 - For more on CNAME record resolution, check out this article from [Cloudflare](https://www.cloudflare.com/learning/dns/dns-records/dns-cname-record/).
 
+## Demonstration & Usage
+You can find a video on my Obsidian Publish showcasing pSSL generating 889 unique IPs for a domain in around 3 minutes.
+
 ## Coming soon...
 pSSL in Python for optimized scan times and implementation of new features :)
 
