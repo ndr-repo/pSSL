@@ -41,7 +41,7 @@ You can find a video on my [Obsidian Publish](https://publish.obsidian.md/weeknd
 ![allMyTools](https://github.com/user-attachments/assets/16cd5559-8d7f-4195-8979-35983e48be72)
 
 ## Coming soon...
-pSSL in Python for optimized scan times and implementation of new features :)
+pSSL in Python for optimized scan times and implementation of new features!
 
 ## Support
 - If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec). 
