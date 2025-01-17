@@ -34,6 +34,7 @@ If you would like to download the dependancies ad-hoc, you'll need to install ga
 
 ## Demonstration & Usage
 You can find a video on my [Obsidian Publish](https://publish.obsidian.md/weekndr-sec/GitHub/pSSL/Demo/Video) showcasing pSSL generating 889 unique IPs for a domain in around 3 minutes.
+
 ![pSSL_ctDownload](https://github.com/user-attachments/assets/3fdda20b-dbb8-4098-93c4-fa5bafbf3d5b)
 ![pSSL_resolving](https://github.com/user-attachments/assets/b16bd707-5434-400e-8621-8a4b86280085)
 ![pSSL_tableCreation2](https://github.com/user-attachments/assets/e0720bf8-d99b-4da0-8f15-91b588162857)
@@ -43,5 +44,5 @@ You can find a video on my [Obsidian Publish](https://publish.obsidian.md/weeknd
 pSSL in Python for optimized scan times and implementation of new features :)
 
 ## Support
-If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec). 
-Im currently consulting full-time and get paid by the project, not by my time.
+- If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec). 
+- As of this release, I'm currently consulting full-time and get paid by the project, not by my time.
