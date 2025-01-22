@@ -14,8 +14,8 @@ Get-Content $pwd\$targetDomain-hostname-table-pssl.txt
 Write-Host " "
 Write-Host "Parsing source IPv4 addresses..." -ForegroundColor Red
 Write-Host " "
-Get-Content $pwd\$targetDomain-hostname-table-pssl.txt | awk -F ' ' '{ print $2 }' | grep -o -P "^[0-9].*"  | Sort-Object -Unique | Out-File $pwd\$targetDomain-enumeration-list-ipv4-addrs.txt utf8 -Force
-Get-Content $pwd\$targetDomain-hostname-table-pssl.txt  | awk -F ' ' '{ print $2 }' | grep -o -P "^[0-9].*"  | Sort-Object -Unique |  awk -F ' ' '{ print }{++cnt} END { print cnt }' 
+Get-Content $pwd\$targetDomain-hostname-table-pssl.txt | awk -F ' ' '{ print $2 }' | grep -o -P "^[0-9].*[.].*[0-9].*[.].*[0-9]"  | Sort-Object -Unique | Out-File $pwd\$targetDomain-enumeration-list-ipv4-addrs.txt utf8 -Force
+Get-Content $pwd\$targetDomain-hostname-table-pssl.txt  | awk -F ' ' '{ print $2 }' | grep -o -P "^[0-9].*[.].*[0-9].*[.].*[0-9]"  | Sort-Object -Unique |  awk -F ' ' '{ print }{++cnt} END { print cnt }' 
 Write-Host " "
 Write-Host "Results saved to the following locations: " -ForegroundColor Red
 Write-Host "$pwd\$targetDomain-ct-log.json"
