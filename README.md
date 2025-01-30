@@ -4,7 +4,7 @@
 
 - pSSL is a passive asset discovery scanner. This means it does not interact with the target domain or its hosts while performing a scan. 
 - This is done by downloading the certificate transparancy logs of your target and resolving CNAME records through public services.
-- If you decide to interact with a host following a scan, it is **your responsibility** to verify you have the proper juristiction. 
+- If you decide to interact with a host following a scan, it is **your responsibility** to verify you have the proper jurisdiction.
 
 **I am not responsible for any legal or criminal proceedings filed against you for using this tool.**
 
