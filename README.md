@@ -15,21 +15,21 @@ pSSL is a tool I wrote in PowerShell to enumerate certificate transparancy logs 
 This provides an unique list of hostnames and addresses for a glimpse of the network behind a target domain. Identify internal hostnames to maximize asset discovery and validate information flow.
 
 ## Getting Started
-pSSL is written for Windows and has a few dependancies from [GnuWin32](https://gnuwin32.sourceforge.net/).
+pSSL is written for Windows and has a few dependencies from [GnuWin32](https://gnuwin32.sourceforge.net/).
 
 Luckily, I wrote a tool for installing everything you need. You can run these scripts [from source](https://github.com/ndr-repo/gnuwin32_Scan-Download/), or use the [compiled executable binary](https://github.com/ndr-repo/gnuwin32_Scan-Download/releases/tag/v1.0.0).
 
-If you would like to download the dependancies ad-hoc, you'll need to install gawk from [here](https://gnuwin32.sourceforge.net/packages/gawk.htm) and grep from [here](https://gnuwin32.sourceforge.net/packages/grep.htm).
+If you would like to download the dependencies ad-hoc, you'll need to install gawk from [here](https://gnuwin32.sourceforge.net/packages/gawk.htm) and grep from [here](https://gnuwin32.sourceforge.net/packages/grep.htm).
 
 **Quickstart Steps**:
 1. Download and run my compiled installer for grep, sed, & awk dependancies
 2. Verify the tools are added to your [environment variables](https://www.howtogeek.com/787217/how-to-edit-environment-variables-on-windows-10-or-11/)
 3. Clone the pSSL repository
-4. Run pSSL. If you are having issues accessing the dependancies from your environment vars, varify they are set and reboot your machine.
+4. Run pSSL. If you are having issues accessing the dependencies from your environment vars, verify they are set and reboot your machine.
 
 ## Related Articles
 - For more on DoH, check out RFC8484 [here](https://www.rfc-editor.org/rfc/rfc8484.html) or at the [PDF](https://www.rfc-editor.org/rfc/pdfrfc/rfc8484.txt.pdf).
-- For more on certificate transparancy, check out this guide from [certificate.transparancy.dev](https://certificate.transparency.dev/howctworks/).
+- For more on certificate transparency, check out this guide from [certificate.transparancy.dev](https://certificate.transparency.dev/howctworks/).
 - For more on CNAME record resolution, check out this article from [Cloudflare](https://www.cloudflare.com/learning/dns/dns-records/dns-cname-record/).
 
 ## Demonstration & Usage
