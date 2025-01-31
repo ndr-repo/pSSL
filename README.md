@@ -10,7 +10,7 @@
 
 ## Overview
 
-pSSL is a tool I wrote in PowerShell to enumerate certificate transparancy logs using DoH (DNS over HTTPS). 
+pSSL is a tool I wrote in PowerShell to enumerate certificate transparency logs using DoH (DNS over HTTPS). 
 
 This provides an unique list of hostnames and addresses for a glimpse of the network behind a target domain. Identify internal hostnames to maximize asset discovery and validate information flow.
 
