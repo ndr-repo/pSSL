@@ -33,7 +33,6 @@ If you would like to download the dependencies ad-hoc, you'll need to install ga
 - For more on CNAME record resolution, check out this article from [Cloudflare](https://www.cloudflare.com/learning/dns/dns-records/dns-cname-record/).
 
 ## Demonstration & Usage
-You can find a video on my [Obsidian Publish](https://publish.obsidian.md/weekndr-sec/GitHub/pSSL/Demo/Video) showcasing pSSL generating 889 unique IPs for a domain in around 3 minutes.
 
 ![pSSL_ctDownload](https://github.com/user-attachments/assets/3fdda20b-dbb8-4098-93c4-fa5bafbf3d5b)
 ![pSSL_resolving](https://github.com/user-attachments/assets/b16bd707-5434-400e-8621-8a4b86280085)
@@ -45,4 +44,3 @@ pSSL in Python for optimized scan times and implementation of new features!
 
 ## Support
 - If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec). 
-- As of this release, I'm currently consulting full-time and get paid by the project, not by my time.
